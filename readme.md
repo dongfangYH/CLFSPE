@@ -1,3 +1,5 @@
+Contrasting Learning for Story Point Estimation
+
 场景：
 现有一批文本数据，只有少部分有标记。使用对比学习的深度聚类进行训练。对比学习使用基于同义词替换的数据增强方式完成样本构造。
 在一个mini-batch中，对于样本x1来说正样本为其增强后的样本x1_,负样本为该mini-batch中其他样本x2及其增强后的样本x2_。
