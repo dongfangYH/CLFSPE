@@ -11,3 +11,9 @@ tfidf-svc 1.55
 MdAE
 median 1.0
 tfidf-svc 1.0
+
+Mule Project (Title + Description)
+------------------------------------------------
+MAE
+gpt2sp : 2.54
+bert : 2.1174
