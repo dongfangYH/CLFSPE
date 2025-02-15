@@ -1,29 +1,21 @@
-Contrasting Learning for Story Point Estimation
+# Contrasting Learning for Story Point Estimation
 
-MES Project (Title Only)
------------------------------------------------
+## MES Project (Title Only)
 
-MAE
+### MAE (Mean Absolute Error)
+- **Mean**: 1.498769730733519
+- **gpt2sp**: 1.42
+- **bert**: 1.5632
+- **tfidf-svc**: 1.55
 
-mean 1.498769730733519
+### MdAE (Median Absolute Error)
+- **Median**: 1.0
+- **tfidf-svc**: 1.0
 
-gpt2sp 1.42
+---
 
-bert 1.5632
+## Mule Project (Title + Description)
 
-tfidf-svc 1.55
-
-MdAE
-
-median 1.0
-
-tfidf-svc 1.0
-
-Mule Project (Title + Description)
-------------------------------------------------
-
-MAE
-
-gpt2sp : 2.54
-
-bert : 2.1174
+### MAE (Mean Absolute Error)
+- **gpt2sp**: 2.54
+- **bert**: 2.1174
