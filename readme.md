@@ -20,12 +20,12 @@
 
 ---
 
-## Mule Project (Title + Description)
+## MES Project (Title + Description)
 
 ### MAE (Mean Absolute Error)
 
 | Model       | MAE Value       |
 |-------------|-----------------|
-| **gpt2sp**  | 2.54            |
+| **gpt2sp**  | 1.43            |
 | **bert**    | 2.1174          |
-| **simsiam**    | 2.5619          |
+| **simsiam**    |           |
